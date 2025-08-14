@@ -20,7 +20,7 @@ public class Lox {
 		else {
 			runPrompt();
 		}
-	} 
+	}
 
 	private static void runPrompt() {
 		// TODO Auto-generated method stub
