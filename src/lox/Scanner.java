@@ -167,7 +167,7 @@ public class Scanner {
 	} 
 	
 	private boolean isDigit(char c) {
-		return c >= '0' && c <= '9';
+		return c >= '0' && c <= '9'; 
 	}
 	
 	private void number() {
