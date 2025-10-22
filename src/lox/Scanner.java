@@ -164,7 +164,7 @@ public class Scanner {
 		}
 		current++;
 		return true;
-	}
+	} 
 	
 	private boolean isDigit(char c) {
 		return c >= '0' && c <= '9';
